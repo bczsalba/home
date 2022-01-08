@@ -81,44 +81,43 @@ pages:
         hu: "Sziamia"
 
       body:
-        en: "
-          My name is Balazs Cene, and I am a <strong>UX Designer and software engineer</strong>                                                    
-          currently living in The Hague, Netherlands. Before moving here I lived in Hungary, which \
+        en: >-
+          My name is Balazs Cene, and I am a <strong>UX Designer and software engineer</strong>
+          currently living in The Hague, Netherlands. Before moving here I lived in Hungary, which
           is where I happened to grow up as well.
           <br><br>
 
-          I consider myself a designer at heart, even if my projects aren't things you would \
-          generally consider design. I write code the way others create art: I am maximalistic \
-          with my creations, plan every step of the way and make sure whatever comes out the \
-          other side is something I can be proud of. I take code linting seriously, and keep myself \
-          accountable by hosting most of my important projects publically on Github, where it is \
+          I consider myself a designer at heart, even if my projects aren't things you would
+          generally consider design. I write code the way others create art: I am maximalistic
+          with my creations, plan every step of the way and make sure whatever comes out the
+          other side is something I can be proud of. I take code linting seriously, and keep myself
+          accountable by hosting most of my important projects publically on Github, where it is
           forever open to scrutiny.
 
           <br><br>
-          My current passion seems to be in interface design, specifically relating to the terminal \                                               
-          emulator. Since vim, my text editor of choice resides in the terminal, I like to keep my \                                                
-          other tools in the same place. At some point, I wanted to create my own terminal applications, \                                          
-          but realized how archaic most of the libraries to do so were at the time I decided to \                                                   
-          make my own. After many hours of coding, debugging and learning all the weird and totally \                                               
-          logical and sensible APIs the terminal provides, I have come up with a pretty nifty project, \                                            
-          which you can check out <a href='https://github.com/bczsalba/pytermgui'>here</a>. At the time \                                           
+          My current passion seems to be in interface design, specifically relating to the terminal
+          emulator. Since vim, my text editor of choice resides in the terminal, I like to keep my
+          other tools in the same place. At some point, I wanted to create my own terminal applications,
+          but realized how archaic most of the libraries to do so were at the time I decided to
+          make my own. After many hours of coding, debugging and learning all the weird and totally
+          logical and sensible APIs the terminal provides, I have come up with a pretty nifty project,
+          which you can check out <a href='https://github.com/bczsalba/pytermgui'>here</a>. At the time
           of writing it is nearing its 1.0.0 release, and has 210+ stars on Github.
 
           <br><br>
-          I also create websites sometimes! This website was generated using a fancy template engine I \
-          wrote in Python, and has some siblings around the web. I designed and co-wrote a parcel pickup \
-          point locator website with a friend of mine at the request of a fairly large Hungarian company, \
-          which you can test out <a href='https://ppp-finder.gkidigital.hu/'>here</a>. It unfortunately \
-          didn't end up being used by them because of the fees Google Maps takes to embed on a website, \
+          I also create websites sometimes! This website was generated using a fancy template engine I
+          wrote in Python, and has some siblings around the web. I designed and co-wrote a parcel pickup
+          point locator website with a friend of mine at the request of a fairly large Hungarian company,
+          which you can test out <a href='https://ppp-finder.gkidigital.hu/'>here</a>. It unfortunately
+          didn't end up being used by them because of the fees Google Maps takes to embed on a website,
           but I'm still very proud of what we achieved.
 
           <br><br>
-          You can find my contacts below. I'm most reachable through email, but other methods should work \
+          You can find my contacts below. I'm most reachable through email, but other methods should work
           as well.
 
           <br><br>
           Thank you for stopping by, and may you have an amazing day!
-        "
 
         hu: "A"
 
