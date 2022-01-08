@@ -1,0 +1,152 @@
+config:
+  root: site/
+ 
+  branding:
+    type: icon
+    value: fa-fish
+
+  icons: 
+    dark_mode: true
+
+  styles:
+    accent: "#b19cd9"
+
+
+pages:
+  BcZsalba:
+    navname:
+      en: index.html
+      hu: index.html
+
+    card_ptg:
+      title:
+        en: pytermgui
+        hu: pytermgui
+
+      body:
+        en: A Pythonic, easy to understand and infinitely versatile module for creating beautiful Terminal User Interfaces.
+        hu: This is not complete
+
+      images:
+        - [
+          https://raw.githubusercontent.com/bczsalba/pytermgui/master/assets/hello_world.png,
+          https://github.com/bczsalba/pytermgui
+        ]
+
+    card_sipedon:
+      title:
+        en: sipedon
+        hu: sipedon
+
+      body:
+        en: "
+          An interactive aquarium for your terminal.
+
+          <br><br>
+
+          Named after <a href='https://en.wikipedia.org/wiki/Common_watersnake'>Nerodia Sipedon</a>, the Common Watersnake."
+
+        hu: This is not complete
+
+      images:
+        - [
+          https://raw.githubusercontent.com/bczsalba/sipedon/master/assets/screenshot.png,
+          https://github.com/bczsalba/sipedon
+        ]
+
+    card_mth:
+      title:
+        en: material.html
+        hu: material.html
+
+      body:
+        en: "A library to aid in programmatically generating beautiful, Material Design based websites using nothing but pure Python and a touch of Duct Tape."
+        hu: This is not complete
+
+      images:
+        - [
+          https://raw.githubusercontent.com/bczsalba/material.html/master/assets/showcase.png,
+          https://github.com/bczsalba/material.html
+        ]
+
+  About ~ BcZsalba:
+    navname:
+      en: "About"
+      hu: "Rolam"
+
+    card0:
+      title:
+        en: "Hey there!"
+        hu: "Sziamia"
+
+      body:
+        en: "
+          My name is Balazs Cene, and I am a <strong>UX Designer and software engineer</strong>                                                    
+          currently living in The Hague, Netherlands. Before moving here I lived in Hungary, which \
+          is where I happened to grow up as well.
+          <br><br>
+
+          I consider myself a designer at heart, even if my projects aren't things you would \
+          generally consider design. I write code the way others create art: I am maximalistic \
+          with my creations, plan every step of the way and make sure whatever comes out the \
+          other side is something I can be proud of. I take code linting seriously, and keep myself \
+          accountable by hosting most of my important projects publically on Github, where it is \
+          forever open to scrutiny.
+
+          <br><br>
+          My current passion seems to be in interface design, specifically relating to the terminal \                                               
+          emulator. Since vim, my text editor of choice resides in the terminal, I like to keep my \                                                
+          other tools in the same place. At some point, I wanted to create my own terminal applications, \                                          
+          but realized how archaic most of the libraries to do so were at the time I decided to \                                                   
+          make my own. After many hours of coding, debugging and learning all the weird and totally \                                               
+          logical and sensible APIs the terminal provides, I have come up with a pretty nifty project, \                                            
+          which you can check out <a href='https://github.com/bczsalba/pytermgui'>here</a>. At the time \                                           
+          of writing it is nearing its 1.0.0 release, and has 210+ stars on Github.
+
+          <br><br>
+          I also create websites sometimes! This website was generated using a fancy template engine I \
+          wrote in Python, and has some siblings around the web. I designed and co-wrote a parcel pickup \
+          point locator website with a friend of mine at the request of a fairly large Hungarian company, \
+          which you can test out <a href='https://ppp-finder.gkidigital.hu/'>here</a>. It unfortunately \
+          didn't end up being used by them because of the fees Google Maps takes to embed on a website, \
+          but I'm still very proud of what we achieved.
+
+          <br><br>
+          You can find my contacts below. I'm most reachable through email, but other methods should work \
+          as well.
+
+          <br><br>
+          Thank you for stopping by, and may you have an amazing day!
+        "
+
+        hu: "A"
+
+    card1:
+      title:
+        en: "Contact me!"
+        hu: "Kontaktok????"
+
+      body:
+        en: "
+          Email: <a href='mailto:bczsalba@gmail.com'>bczsalba@gmail.com</a><br>
+          Github: <a href='https://github.com/bczsalba'>bczsalba<br>
+        "
+
+        hu: "Something"
+
+      images:
+        - static/icon.png
+
+  Blog ~ BcZsalba:
+    navname:
+      en: Blog
+      hu: Blog
+
+    card0:
+      body:
+        en: This feature only works on my <a href="https://tilde.town/~bczsalba">tilde site</a>.
+        hu: go away
+
+
+
+
