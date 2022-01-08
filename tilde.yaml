@@ -1,11 +1,12 @@
 config:
-  root: site/
- 
+  # GitHub pages only allows hosting root or docs.
+  root: docs/
+
   branding:
     type: icon
     value: fa-fish
 
-  icons: 
+  icons:
     dark_mode: true
 
   styles:

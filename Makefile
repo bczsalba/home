@@ -1,2 +1,2 @@
 regen:
-	rm -rf site && mkdir site && ln -s "$(PWD)"/static/ site/static
+	rm -rf site && mkdir site && ln -s static site/static
